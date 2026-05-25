@@ -1,4 +1,4 @@
-<h1 style="text-align: center;"> Hi, I'm Zara! </h1>
+# Hi, I'm Zara!
 
 ## A little about me 
 I'm currently completing my final year as a Computer Science student at Northeastern University. 
@@ -17,7 +17,11 @@ Git, Figma, GitHub
 I typically work on macOS, but have also worked in Linux virtual environments and on Windows. 
 
 ## More about me 
-- Music >>>
-      I have spent my whole life dancing (from ballet to voguing) and can play multiple instruments, 
-      some favs... RHCP, MJ, Amy Winehouse, techno 
-- I am so grateful to experience the world and travel 
+Music >>>
+- I have spent my whole life dancing (from ballet to voguing) and can play multiple instruments, 
+- some favs... RHCP, MJ, Amy Winehouse, techno 
+
+I am so grateful to experience the world and travel 
+
+## Connect with me 
+https://www.linkedin.com/in/zaraceraj/ 
