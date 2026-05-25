@@ -5,18 +5,18 @@ I am completing my final year as a Computer Science student at Northeastern Univ
 
 🇭🇷 <3
 
-## Tech Stack 
-### Languages 
+### Tech Stack 
+#### Languages 
 Java, Python, JavaScript, Kotlin, SQL, TypeScript
-### Frameworks and Libraries  
+#### Frameworks and Libraries  
 MCP, LangChain/LangGraph, React, Streamlit
-## Databases 
+#### Databases 
 MySQL, MongoDB
-## Tools and Platforms 
+#### Tools and Platforms 
 Git, Figma, GitHub
 I typically work on macOS, but have also worked in Linux virtual environments and on Windows. 
 
-## Other 
+## More about me 
 - Music >>>
       I have spent my whole life dancing (from ballet to voguing) and can play multiple instruments, 
       some favs... RHCP, MJ, Amy Winehouse, techno 
