@@ -1,4 +1,4 @@
-# Hi! I'm Zara! 
+<h1 style="text-align: center;"> Hi, I'm Zara! </h1>
 
 ## A little about me 
 I am completing my final year as a Computer Science student at Northeastern University. 
