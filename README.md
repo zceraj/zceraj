@@ -1,11 +1,23 @@
-Hi! I'm Zara! 
+# Hi! I'm Zara! 
 
-# A little about me 
+## A little about me 
+I am completing my final year as a Computer Science student at Northeastern University. 
 
+🇭🇷 <3
 
-- 👀 I’m interested in improving my coding through short projects! 
-- 🌱 I’m currently learning Python and Javascript. 
-- 💞️ I am a CS and Bio major so if you are working on any projects
-      that combine the two fields I would love to collaborate.
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love to travel! 
+## Tech Stack 
+### Languages 
+Java, Python, JavaScript, Kotlin, SQL, TypeScript
+### Frameworks and Libraries  
+MCP, LangChain/LangGraph, React, Streamlit
+## Databases 
+MySQL, MongoDB
+## Tools and Platforms 
+Git, Figma, GitHub
+I typically work on macOS, but have also worked in Linux virtual environments and on Windows. 
+
+## Other 
+- Music >>>
+      I have spent my whole life dancing (from ballet to voguing) and can play multiple instruments, 
+      some favs... RHCP, MJ, Amy Winehouse, techno 
+- I am so grateful to experience the world and travel 
