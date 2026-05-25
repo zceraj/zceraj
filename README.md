@@ -23,5 +23,3 @@ Music >>>
 
 I am so grateful to experience the world and travel 
 
-## Connect with me 
-https://www.linkedin.com/in/zaraceraj/ 
