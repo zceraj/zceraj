@@ -16,10 +16,3 @@ MySQL, MongoDB
 Git, Figma, GitHub
 I typically work on macOS, but have also worked in Linux virtual environments and on Windows. 
 
-## More about me 
-Music >>>
-- I have spent my whole life dancing (from ballet to voguing) and can play multiple instruments, 
-- some favs... RHCP, MJ, Amy Winehouse, techno 
-
-I am so grateful to experience the world and travel 
-
