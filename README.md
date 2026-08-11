@@ -14,5 +14,6 @@ MCP, LangChain/LangGraph, React, Streamlit
 MySQL, MongoDB
 #### Tools and Platforms 
 Git, Figma, GitHub
-I typically work on macOS, but have also worked in Linux virtual environments and on Windows. 
+<p>I typically work on macOS, but have also worked in Linux virtual environments and on Windows.  </p>
+
 
