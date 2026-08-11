@@ -3,7 +3,7 @@
 #### A little about me 
 I'm currently completing my final year as a Computer Science student at Northeastern University. 
 
-### Tech Stack 
+### Familiar with...  
 #### Languages 
 Java, Python, JavaScript, Kotlin, SQL, TypeScript
 #### Frameworks and Libraries  
