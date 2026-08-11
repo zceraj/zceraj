@@ -1,9 +1,7 @@
-# Hi, I'm Zara!
-
-## A little about me 
+### Hi, I'm Zara!
+<p> 🇭🇷 <3 </p>
+#### A little about me 
 I'm currently completing my final year as a Computer Science student at Northeastern University. 
-
-🇭🇷 <3
 
 ### Tech Stack 
 #### Languages 
