@@ -4,9 +4,9 @@ I'm currently completing my final year as a Computer Science student at Northeas
 
 ### Familiar with...  
 #### Languages 
-Java, Python, JavaScript, Kotlin, SQL, TypeScript
+Java, Python, TypeScript/JavaScript, C, Kotlin, SQL, TypeScript
 #### Frameworks and Libraries  
-MCP, LangChain/LangGraph, React, Streamlit
+React, LangChain/LangGraph, Streamlit
 #### Databases 
 MySQL, MongoDB
 #### Tools and Platforms 
