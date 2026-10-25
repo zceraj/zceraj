@@ -1,5 +1,4 @@
 ### Hi, I'm Zara!
-<p> 🇭🇷 <3 </p>
 
 I'm currently completing my final year as a Computer Science student at Northeastern University. 
 
